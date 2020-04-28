@@ -9,7 +9,7 @@ var baseUrl = '//your.archive.url.com/';
 var key = 'changeme';
 
 function createArchiveLink(gid, token) {
-    var link = $('<div><a href="#">Send to archive</a></div>');
+    var link = $('<a href="#">Send to archive</a>');
     link.data('gid', gid);
     link.data('token', token);
 
