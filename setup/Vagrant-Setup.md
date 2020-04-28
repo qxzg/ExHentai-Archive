@@ -5,7 +5,7 @@ Windows Setup
 
  * VirtualBox ( [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) )
  * Vagrant ( [https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html) )
- * ExHentai-Archive ( [https://github.com/Sn0wCrack/ExHentai-Archive/archive/master.zip](https://github.com/Sn0wCrack/ExHentai-Archive/archive/master.zip) )
+ * ExHentai-Archive ( [https://github.com/qxzg/ExHentai-Archive/archive/master.zip](https://github.com/qxzg/ExHentai-Archive/archive/master.zip) )
  
 
 ### How-To
@@ -77,7 +77,7 @@ After ```vagrant up``` finishes running, you'll need to run ```vagrant halt``` a
 
 Afterwards everything should be running smoothly and your vagrant box should be up and running, you can check this by going to ```https://localhost``` in your web browser of choice. **The https is highly important.**
 
-After this you can proceed to [userscript setup](https://github.com/Sn0wCrack/ExHentai-Archive/blob/master/setup/Userscript-Setup.md) using the baseUrl as "https://localhost/" and key as whatever you set previously.
+After this you can proceed to [userscript setup](https://github.com/qxzg/ExHentai-Archive/blob/master/setup/Userscript-Setup.md) using the baseUrl as "https://localhost/" and key as whatever you set previously.
 
 If you're on Windows (I assume most using this guide would be) then you can schedule a task to run to open the vagrant box at start up so you don't have to it manually by making a batch file called ```startup.bat``` in the ExHentai-Archive folder similar to the following:
 ```

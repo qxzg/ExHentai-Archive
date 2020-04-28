@@ -20,10 +20,10 @@ Setup
 
 List of setup guides:
 
-* [Vagrant Setup](https://github.com/Sn0wCrack/ExHentai-Archive/blob/master/setup/Vagrant-Setup.md) - EASIEST SETUP FOR NEW PEOPLE
-* [Linux Setup](https://github.com/Sn0wCrack/ExHentai-Archive/blob/master/setup/Linux-Setup.md) - kimoi's guide
-* [Windows Setup](https://github.com/Sn0wCrack/ExHentai-Archive/blob/master/setup/Windows-Setup.md)
-* [Userscript Setup](https://github.com/Sn0wCrack/ExHentai-Archive/blob/master/setup/Userscript-Setup.md) - Required for all setups
+* [Vagrant Setup](https://github.com/qxzg/ExHentai-Archive/blob/master/setup/Vagrant-Setup.md) - EASIEST SETUP FOR NEW PEOPLE
+* [Linux Setup](https://github.com/qxzg/ExHentai-Archive/blob/master/setup/Linux-Setup.md) - kimoi's guide
+* [Windows Setup](https://github.com/qxzg/ExHentai-Archive/blob/master/setup/Windows-Setup.md)
+* [Userscript Setup](https://github.com/qxzg/ExHentai-Archive/blob/master/setup/Userscript-Setup.md) - Required for all setups
 
 TODO
 ---
