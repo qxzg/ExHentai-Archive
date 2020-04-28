@@ -344,7 +344,7 @@ $(document).ready(function() {
 						})
 					} else {
                         if(gallery.archived == 1) {
-                            var url = 'api.php?' + $.param({ action: 'gallerythumb', id: gallery.id, index: 0, type: 1 });
+                            var url = 'api.php?' + $.param({ action: 'archiveimage', id: gallery.id, index: 0, type: 1 });
                         } else {
                             var url = 'api.php?' + $.param({ action: 'exgallerythumb', id: gallery.id });
                         }
