@@ -3,9 +3,6 @@ ExHentai-Archive
 
 A system for crawling, downloading and viewing ExHentai galleries.
 
-Screenshots
----
-<img src="https://raw.githubusercontent.com/kimoi/ExHentai-Archive/screenshots/screenshots/screenshot1.jpg" alt="" />
 
 What is ExHentai-Archive?
 ---
